@@ -1,0 +1,14 @@
+9/12 - Started the project, got the LCD to work, have a working graphic. 
+I am reworking the gateway.py because I want to make it mine not just AI's. 
+Debugging has included replacing cables, pressing BOOT until write begins after clicking upload, and finding correct speeds. 
+Will then proceed to get the WIFI working. 
+
+9/15 - Wifi is now working as well as the pull requests; Web server working as well
+
+9/16 - Worked more on the code, getting supplies and scoping out a NAS system
+
+9/20 - Built the computer; connected it to the internet; installed Debian Linux; set it up; IP: 192.168.1.113; reworked gateway.py
+
+9/21 - gateway.py working to turn on light on ESP32 through powershell; input wrong variable in try: r = requests.get(website, timeout=3) but fixed; Stage 0 complete; Python looks up the exact name it doesn't infer;
+
+9/22 Session 1: pinMode(pin, LOW) compiling to nothing; Arduino concatenating every .ino in a folder; repo published with hidden files; 

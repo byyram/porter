@@ -1,0 +1,15 @@
+# secrets - never commit these
+secrets.h
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# editor and OS junk
+.vscode/
+Thumbs.db
+
+# teaching notes, kept local
+SITTING_A.md
+SITTING_B.md
